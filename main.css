@@ -1,0 +1,15 @@
+Body {background-color: tan;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+header {background-color: olive;}
+
+h1{color: green;}
+nav > ul {line-height: 2em;
+list-style-type: none;
+padding-left: 5px;}
+
+section {background-color: darkgrey;
+width: 75%;
+font-size: 1.2em;}
+
+footer {background-color: burlywood;}
